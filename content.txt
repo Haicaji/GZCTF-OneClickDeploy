@@ -1,0 +1,18 @@
+include_base
+file协议
+data协议
+data协议_2
+http:// & https:// 协议
+http:// & https:// 协议_2
+php:// 协议
+php://input 协议
+php://filter_过滤器&字符串过滤器
+php://filter_转换过滤器
+文件系统函数_file_get_contents()
+文件系统函数_file_put_contents()
+LFI&&RFI
+LFI_日志文件包含\_Nginx
+LFI_日志文件包含\_Apache
+LFI_Session文件包含
+FilterChain:THE_END_OF_LFI
+FilterChain:file read from error-based oracle
